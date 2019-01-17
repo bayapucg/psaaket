@@ -140,6 +140,7 @@
                       
                     </ul>
                   </li>
+                  <li> <a href="mock-test.php">Mock Test</a></li>
                   <li> <a href="contact-us.php">Contact us</a></li>
                  
                 </ul>

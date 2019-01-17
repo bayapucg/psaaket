@@ -91,7 +91,7 @@
 					
                     <div class="form-group">
                       <div class="col-sm-11">
-					   <input type="submit"  class="btn-theme btn" value="Register  "  />
+					   <a href="seminar-workshop-payment.php" type="submit"  class="btn-theme btn"   >Register</a>
                     </div>
                     </div>
                   </form>
