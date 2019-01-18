@@ -85,6 +85,7 @@
 					  <li><a href="#">Corporate Soft Skills Training</a></li>
                     </ul>
                   </li>
+				  <li> <a href="campus-ambassador.php">Ambassador</a></li>
 				  <li> <a href="partners.php">Partners</a></li>
 				 
                   <li> <a href="contact-us.php">Contact us</a></li>
@@ -140,6 +141,7 @@
                       
                     </ul>
                   </li>
+                    <li> <a href="campus-ambassador.php">Ambassador</a></li>
                   <li> <a href="mock-test.php">Mock Test</a></li>
                   <li> <a href="contact-us.php">Contact us</a></li>
                  
