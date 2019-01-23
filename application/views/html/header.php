@@ -86,6 +86,7 @@
 					  <li><a href="#">Corporate Soft Skills Training</a></li>
                     </ul>
                   </li>
+				  <li> <a href="campus-ambassador.php">Ambassador</a></li>
 				  <li> <a href="partners.php">Partners</a></li>
 				 
                   <li> <a href="contact-us.php">Contact us</a></li>
@@ -119,8 +120,11 @@
                       
                     </ul>
                   </li>
+				  <li class="<?php if(isset($c_url) && $c_url=='campusambassador'){ echo "active"; }  ?>"> <a href="<?php echo base_url('campusambassador'); ?>">Ambassador</a></li>
 					<li class="<?php if($c_url=='mocktest'){ echo "active"; }?>">  <a href="<?php echo base_url('mocktest'); ?>">Mock Test</a></li>
                   <li class="<?php if($c_url=='contactus'){ echo "active"; }?>"> <a href="<?php echo base_url('contactus'); ?>">Contact us</a></li>
+                    
+                  
                  
                 </ul>
               </nav>

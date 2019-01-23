@@ -73,6 +73,12 @@
 				     <span style="color:red;">	</span>
 				   </div>
                     </div>
+                     <div class="form-group">
+                      <div class="col-sm-12">
+					  <label for="sel1">Qualification:</label>
+					  <input class="form-control" type="text" name="" placeholder="Enter your Qualification" value="" / required>
+					 </div>
+                    </div>
 					<div class="form-group">
                       <div class="col-sm-12">
 					   <label for="sel1">College/Institution Name and Address:</label>
