@@ -10,7 +10,7 @@ class Campusambassador extends Front_end {
 	}
 	public function index()
 	{	
-		$this->load->view('html/Campusambassador');
+		$this->load->view('html/campus-ambassador');
 		$this->load->view('html/footer');
 	}
 	
